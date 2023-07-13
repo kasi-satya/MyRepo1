@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.arolatin.com/</loc>
+  <lastmod>2021-07-13T06:09:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/order.html</loc>
+  <lastmod>2021-07-13T06:10:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/about.html</loc>
+  <lastmod>2021-07-13T06:09:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/menu.html</loc>
+  <lastmod>2021-07-13T06:10:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/vegan.html</loc>
+  <lastmod>2021-07-13T06:08:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/bar.html</loc>
+  <lastmod>2021-07-13T06:09:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/socialhour.html</loc>
+  <lastmod>2021-07-13T06:11:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/events.html</loc>
+  <lastmod>2021-07-13T06:09:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/press.html</loc>
+  <lastmod>2021-07-13T06:10:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/gallery.html</loc>
+  <lastmod>2021-07-13T06:09:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/contact.html</loc>
+  <lastmod>2021-07-13T06:09:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.arolatin.com/accessibility.html</loc>
+  <lastmod>2021-07-13T06:09:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
